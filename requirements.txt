@@ -16,3 +16,9 @@ langchain_huggingface
 faiss-cpu
 chromadb
 langchain_chroma
+torch
+tensorflow
+keras
+transformers
+scikit-learn
+datasets
