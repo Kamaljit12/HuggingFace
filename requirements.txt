@@ -22,3 +22,5 @@ keras
 transformers
 scikit-learn
 datasets
+langchain_groq
+streamlit
